@@ -87,6 +87,7 @@ p {
 }
 
 .navbar-nav>li>a {
+    padding-right: 30px;
     font-size: 14px;
     color: #fff;
     font-family: 'Montserrat', sans-serif;
@@ -106,16 +107,18 @@ p {
 }
 
 .header_area_text h2 {
-    font-size: 30px;
+    font-size: 28px;
     color: #fff
 }
 
 .header_area_text p {
     color: #fff;
     margin: 30px 0px;
+    font-size: 20px
 }
 
 .header_area_text a {
+    margin-left: 40px;
     background: #4ECB8C;
     display: inline-block;
     padding: 10px 15px;
